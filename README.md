@@ -1,2 +1,2 @@
 # Frontend-Fundamentals
-This repository contains my practice code and projects as I learn HTML, CSS, and JavaScript fundamentals.
+This repository contains my practice code and projects as I learn HTML, CSS, and JavaScript fundamentals
